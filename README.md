@@ -3,11 +3,11 @@
 This repository holds only what Frontier Valley broadcasts: the built game, the city map data, and
 the episodes that have aired. Nothing else is here.
 
-- **The valley** — [`/`](https://waypostmaster.github.io/mast/) (`index.html`). A settlement on a
+- **The valley** — [`/`](https://frontiervalley.app/) (`index.html`). A settlement on a
   wooded coast, running its own day.
-- **The channel** — [`/?episode=episodes/latest.json`](https://waypostmaster.github.io/mast/?episode=episodes/latest.json).
+- **The channel** — [`/?episode=episodes/latest.json`](https://frontiervalley.app/?episode=episodes/latest.json).
   One valley day airs nightly; `latest.json` names the one currently up.
-- **The city window** — [`/city.html`](https://waypostmaster.github.io/mast/city.html).
+- **The city window** — [`/city.html`](https://frontiervalley.app/city.html).
 
 The written record — the sheets, which are the argument for all of this — is at
 <https://waypost.quest/space/>.
