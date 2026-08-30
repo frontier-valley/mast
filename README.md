@@ -1,13 +1,15 @@
 # The mast
 
-This repository holds only what Frontier Valley broadcasts: the built game, the city map data, and
-the episodes that have aired. Nothing else is here.
+This repository holds only what Frontier Valley broadcasts: the built game, the city map data, the
+episodes that have aired, and the one page that explains what all this is. Nothing else is here.
 
 - **The valley** — [`/`](https://frontiervalley.app/) (`index.html`). A settlement on a
   wooded coast, running its own day.
 - **The channel** — [`/?episode=episodes/latest.json`](https://frontiervalley.app/?episode=episodes/latest.json).
   One valley day airs nightly; `latest.json` names the one currently up.
 - **The city window** — [`/city.html`](https://frontiervalley.app/city.html).
+- **The one-pager** — [`/fyi.html`](https://frontiervalley.app/fyi.html), served at
+  <https://frontiervalley.fyi>. What the valley is, for somebody arriving cold.
 
 The written record — the sheets, which are the argument for all of this — is at
 <https://waypost.quest/space/>.
