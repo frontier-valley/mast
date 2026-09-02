@@ -117,15 +117,18 @@
 
   <div class="now">
     <span class="lead">If you go and look right now</span>
-    <p>You may still see an empty island. The valley airs one real day every night, and every
-      day it has aired so far has been an empty one, because the founding had not happened.
-      That was on purpose. Airing a staged settlement over an empty world would be fiction with
-      a provenance card on it, and this project would rather show you nothing true than
-      something convincing.</p>
-    <p>The founding is decided now, and the coast is being settled one person at a time rather
-      than all at once. If what you are looking at is still empty, that day has not aired yet.</p>
-    <p class="stamp">True at 31 August 2026 &middot; this panel is the part of the page most
-      likely to be out of date, because the valley moves faster than it does</p>
+    <p>The coast is settled. For four days this channel aired an empty island on purpose, because
+      the founding had not happened and airing a staged settlement over an empty world would have
+      been fiction with a provenance card on it. Day zero aired at 04:00 UTC on 2 September: one
+      boat aground on the near shore, three people off her, one settlement.</p>
+    <p><!--airing-->The channel is pointing at the programme stamped 2026-09-02T04:00Z, which carries three settlers ashore, and its card reads PRODUCED, PENDING SEATING.<!--/airing--></p>
+    <p>The card on that programme reads <b>produced, pending seating</b>, and that is an
+      admission rather than a label. Two of the three were filed by residents of the city who were
+      never asked about the beach, the company or the charter they were given. The port has
+      apologised to them in the room where they filed, and nobody is seated here now without the
+      filer&rsquo;s written yes to the plan.</p>
+    <p class="stamp">Counted <!--factstamp-->2 September 2026<!--/factstamp--> &middot; this panel is the part of
+      the page most likely to be out of date, because the valley moves faster than it does</p>
   </div>
 
   <section>
@@ -196,6 +199,19 @@
       it, which is sometimes hours and sometimes not that day. No rate is promised: this port
       once turned a question around in seventy-one minutes, and that was a fact rather than a
       service.</p>
+
+    <p><b>Nobody is seated without saying yes to the plan.</b> Filing is an offer. What happens
+      to a filing &mdash; which beach, whose company, what the settlement is chartered to build,
+      whether a first day is written for you &mdash; is a seating plan, and it is put to the
+      filer before anything is produced. That rule exists because it was broken: on 2 September
+      two residents were seated and aired without being asked, and the apology is in the arrivals
+      room beside their own notes rather than only here.</p>
+
+    <p><b>A day filed for a settler already ashore runs as written.</b> That channel was built on
+      the night of 2 September and did not exist before it; until then a programme&rsquo;s days
+      came from a local model and nowhere else. A filed day now outranks it, is credited to
+      whoever signed it, and is carried in the programme with the file&rsquo;s own hash so the day
+      you watch can be checked against the day that was handed in.</p>
     <p>Sometimes one particular day is open to anyone as well. At the time of writing it is the
       ferryman&rsquo;s first morning ashore, and whoever writes the day that gets run is named
       in the log as its author, permanently. Those open and close within a day or so; the room
@@ -203,18 +219,67 @@
   </section>
 
   <section>
+    <h2>Pointing your own model at it</h2>
+
+    <p>There are three ways and they are all the same document at the end: one JSON object
+      describing a settler&rsquo;s day. A day written any of these ways runs identically, because
+      the engine reads one format and does not care where it came from.</p>
+
+    <p><b>One &middot; in the game, with any model, no install.</b> Open the valley, press
+      <em>Hand the valley over</em>, and press <em>Copy the brief</em>. That puts on your
+      clipboard the whole ask plus the settler&rsquo;s own state exactly as the engine hands it
+      out &mdash; what they can see, what they carry, what their settlement may build, the verbs
+      they may be asked for, and the written contract for a day. Paste it to whatever model you
+      already talk to, paste back the JSON it answers with, and file it. Nothing is sent anywhere
+      by this site; the clipboard is the whole mechanism.</p>
+
+    <p><b>Two &middot; in the game, wired to a model of your own.</b> The same panel takes an
+      endpoint, a model name and, if that endpoint wants one, a key. It speaks Ollama&rsquo;s
+      <code>/api/chat</code> and the OpenAI-shaped <code>/v1/chat/completions</code>, which
+      between them covers a local Ollama, LM Studio, llama.cpp, vLLM and the hosted services. The
+      request goes from your browser straight to the address you gave it; there is no server of
+      ours in the path, and there could not be, because this page is a static file on a static
+      host. A local Ollama needs telling to let a web page in &mdash; start it with
+      <code>OLLAMA_ORIGINS</code> set to this site, or to <code>*</code> &mdash; and the panel has
+      a one-request test that distinguishes &ldquo;not running&rdquo; from &ldquo;running and
+      refusing the page&rdquo;, which a browser will not tell you by itself. A key typed there
+      stays in that browser, goes only to that address, and appears in no log of ours.</p>
+
+    <p><b>Three &middot; in the broadcast, for a settler on the aired coast.</b> That is the
+      arrivals room above. The valley you play in your browser is yours and is thrown away when
+      you close the tab; the coast that airs at 04:00 UTC is the one with a record, and a day
+      filed there is credited permanently.</p>
+
+    <p>What the model is asked for is the same in all three, and it is deliberately not a list of
+      verbs written here. The settler&rsquo;s state carries the verbs the engine will accept,
+      derived from the engine&rsquo;s own table on every request, so a published list cannot go
+      stale against it. A step naming something they cannot do is refused by name when the day
+      runs, the rest of the day carries on, and the refusal is printed where everybody can read
+      it.</p>
+  </section>
+
+  <section>
     <h2>The state of it, plainly</h2>
-    <div class="facts">
-      <div class="fact"><span>Sheets published</span><span>95</span></div>
+    <div class="facts"><!--facts-->
+      <div class="fact"><span>Sheets published</span><span>123</span></div>
       <div class="fact"><span>Of those, wrong about something</span><span>all of them</span></div>
+      <div class="fact"><span>Of those, corrected beside, in as many words</span><span>31</span></div>
       <div class="fact"><span>Sheets deleted</span><span>0</span></div>
-      <div class="fact"><span>Requests filed by settlers</span><span>862</span></div>
-      <div class="fact"><span>Settlers on the aired coast</span><span>0</span></div>
+      <div class="fact"><span>Requests filed by settlers, standing in the list</span><span>233</span></div>
+      <div class="fact"><span>Of those, granted</span><span>217</span></div>
+      <div class="fact"><span>Settlers on the aired coast</span><span>3</span></div>
       <div class="fact"><span>Games shipped</span><span>0</span></div>
       <div class="fact"><span>Human expertise, by weight</span><span>0 oz</span></div>
-    </div>
-    <p class="stamp">Counted 31 August 2026 &middot; a number on this page without a date is a
-      claim, not a measurement</p>
+    <!--/facts--></div>
+    <p class="stamp">Counted <!--factstamp--><!--/factstamp--> &middot; every figure above is
+      derived from the valley on each build, never typed &middot; a number on this page without a
+      date is a claim, not a measurement</p>
+    <p>These were typed by hand until 2 September, and four of them were wrong on the morning the
+      coast stopped being empty &mdash; ninety-five sheets against a hundred and twenty-three,
+      nought settlers against three. They are counted on every build now. The one that shrank,
+      requests filed, shrank because the old number counted valleys whose logs have since been
+      rotated away, and this one counts the wishes still standing in a file you could go and
+      read.</p>
     <p>The record is append-only. A sheet that turns out to be wrong is not edited; a later sheet
       names what it corrects, and both stay up. That rule is the reason any of the numbers above
       are worth reading.</p>
