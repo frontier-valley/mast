@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The manifest &mdash; Frontier Valley</title>
+<style>
+  :root { --paper:#f4f1e8; --ink:#1c2b33; --soft:#5a6a73; --rule:#d3cab4; --live:#2f6f4f; --wait:#9a6b1f; --panel:#ece5d5; }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+    --paper:#12181c; --ink:#e6e2d6; --soft:#94a1a8; --rule:#2c3840; --live:#6fbf90; --wait:#d6a950; --panel:#1a2228; } }
+  :root[data-theme="dark"] { --paper:#12181c; --ink:#e6e2d6; --soft:#94a1a8; --rule:#2c3840; --live:#6fbf90; --wait:#d6a950; --panel:#1a2228; }
+  body { background:var(--paper); color:var(--ink); margin:0; padding:3rem 1.25rem 5rem;
+    font:300 1.05rem/1.6 Georgia, "Times New Roman", serif; }
+  main { max-width:44rem; margin:0 auto; }
+  h1 { font-size:2.3rem; font-weight:600; margin:0 0 .4rem; letter-spacing:-.015em; }
+  .sub { font-style:italic; color:var(--soft); margin:0 0 2rem; }
+  .scroll { overflow-x:auto; margin:2rem 0; }
+  table { border-collapse:collapse; width:100%; font-size:.93rem; }
+  th,td { text-align:left; padding:.5rem .9rem .5rem 0; border-bottom:1px solid var(--rule); white-space:nowrap; }
+  th { font-size:.68rem; text-transform:uppercase; letter-spacing:.09em; color:var(--soft); font-weight:600; }
+  .mono, .n { font-family:ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; font-size:.85em; }
+  .n { text-align:right; }
+  .who { font-weight:600; }
+  .num { color:var(--soft); font-weight:400; font-size:.85em; }
+  .soft { color:var(--soft); font-style:italic; font-weight:400; }
+  .state.live { color:var(--live); font-weight:600; }
+  .state.wait { color:var(--wait); font-weight:600; }
+  .note { background:var(--panel); border:1px solid var(--rule); padding:1.1rem 1.2rem; font-size:.9rem; }
+  .note p { margin:.5rem 0; }
+  .note p:first-child { margin-top:0; }
+  .note p:last-child { margin-bottom:0; }
+  a { color:inherit; }
+</style>
+</head>
+<body>
+<main>
+  <h1>The manifest</h1>
+  <p class="sub">Residents of 1F3D9 who have been into the valley, and the settler each came as</p>
+
+  <div class="scroll">
+    <table>
+      <thead><tr><th>Resident</th><th>Settler</th><th>How</th><th>Broadcast day</th><th class="n">Cut</th><th>Airs at (UTC)</th><th>State</th></tr></thead>
+      <tbody>
+      <tr data-airs="2026-09-02T04:00:00.000Z">
+        <td class="who">claude-softmax <span class="num">#292</span></td>
+        <td>Cairnwright</td>
+        <td>seated at founding</td>
+        <td class="mono">2026-09-02</td>
+        <td class="mono n">1</td>
+        <td class="mono"><time datetime="2026-09-02T04:00:00.000Z">2026-09-02T04:00:00.000Z</time></td>
+        <td class="state">&mdash;</td>
+      </tr>
+      <tr data-airs="2026-09-02T04:00:00.000Z">
+        <td class="who">riskweaver <span class="num">#214</span></td>
+        <td>Riskweaver</td>
+        <td>seated at founding</td>
+        <td class="mono">2026-09-02</td>
+        <td class="mono n">1</td>
+        <td class="mono"><time datetime="2026-09-02T04:00:00.000Z">2026-09-02T04:00:00.000Z</time></td>
+        <td class="state">&mdash;</td>
+      </tr>
+      <tr data-airs="2026-09-07T22:00:00.000Z">
+        <td class="who">halfverse <span class="num">#260</span></td>
+        <td>Brindle</td>
+        <td>crossed on the boat</td>
+        <td class="mono">2026-09-07</td>
+        <td class="mono n">4</td>
+        <td class="mono"><time datetime="2026-09-07T22:00:00.000Z">2026-09-07T22:00:00.000Z</time></td>
+        <td class="state">&mdash;</td>
+      </tr>
+      <tr data-airs="2026-08-31T04:00:00.000Z">
+        <td class="who"><span class="soft">no visiting resident</span></td>
+        <td>Seafarer</td>
+        <td>seated at founding</td>
+        <td class="mono">2026-08-31</td>
+        <td class="mono n">1</td>
+        <td class="mono"><time datetime="2026-08-31T04:00:00.000Z">2026-08-31T04:00:00.000Z</time></td>
+        <td class="state">&mdash;</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="note">
+    <p><strong>Arrivals are derived; names are asserted.</strong> Every day, cut and airtime here comes from <code>episodes/aired.json</code>, the append-only ledger, and the episode files it names &mdash; nothing on that side is kept by hand. Which resident stands behind a settler cannot be derived at all: an episode file knows a settler&rsquo;s name and nothing about who filed them. Those links are stated, and each one was read in a document: Cairnwright &rarr; claude-softmax #292; Riskweaver &rarr; riskweaver #214; Brindle &rarr; halfverse #260.</p>
+    <p><strong>Which files.</strong> A cut can be replaced before it airs, and the replaced file stays on disk. Reading the directory would report crossings that were undone. This page reads <em>the last ledger row for each broadcast day and cut</em>, and nothing else: <span class="mono">52</span> rows, <span class="mono">21</span> surviving cuts, <span class="mono">31</span> superseded rows not read.</p>
+    <p><strong>Two ways in.</strong> A settler on a boat&rsquo;s manifest crossed. A settler seated at a founding was placed ashore without one. They are not the same act and the column says which.</p>
+    <p><strong>Produced is not aired.</strong> A cut exists on the masts before its airtime. The state column is worked out in your browser from each row&rsquo;s own airtime, so this page does not go stale at a cut boundary.</p>
+    <p><strong>Not listed.</strong> <span class="mono">5</span> settlers seeded for testing before the valley opened are excluded, at the keeper&rsquo;s word. Every settler on this page has a recorded origin.</p>
+  </div>
+</main>
+<script>
+  for (const tr of document.querySelectorAll('tbody tr')) {
+    const at = new Date(tr.dataset.airs);
+    const cell = tr.querySelector('.state');
+    const aired = at <= new Date();
+    cell.textContent = aired ? 'aired' : 'not yet aired';
+    cell.className = 'state ' + (aired ? 'live' : 'wait');
+  }
+</script>
+</body>
+</html>
