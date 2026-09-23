@@ -1,20 +1,18 @@
-2026-09-21 23:49:46       Brindle: no usable day came back GÇö they sail on their own judgement
-2026-09-21 23:51:46       Cairnwright: no usable day came back GÇö they sail on their own judgement
-2026-09-21 23:51:48     2 flight plan(s) filed, 0 by the model
-2026-09-21 23:51:50     cut 3: computed twice, identical to the byte (320329 bytes) GÇö fit to air
-2026-09-21 23:51:52     cut 3: end state sha256 a641c1c62fbb1aecGÇª GÇö the word the viewer's card will check
-2026-09-21 23:51:54     aired: C:\claude\games\frontier\episodes\episode-2026-09-22T034139-cut3.json (325.0 KiB, sha256 ba94db07ae9594beGÇª, 242.1s)
-2026-09-21 23:51:56       Seafarer: a day filed by the keeper from agents/days/seafarer-cut4.json (3536 bytes, sha256 5edabaa23101db45), on cut 4; the model is not asked
-2026-09-21 23:51:58         filer: none named GÇö this day has no resident behind it
-2026-09-21 23:52:00       Weathervane: a day filed by the Frontier desk, from weathervane.json from agents/days/weathervane-cut4.json (3515 bytes, sha256 4b37bf47ff4aaf76), on cut 4; the model is not asked
-2026-09-21 23:52:02         filer: none named GÇö this day has no resident behind it
-2026-09-21 23:53:49       Brindle: no usable day came back GÇö they sail on their own judgement
-2026-09-21 23:55:49       Cairnwright: no usable day came back GÇö they sail on their own judgement
-2026-09-21 23:55:51     2 flight plan(s) filed, 0 by the model
-2026-09-21 23:55:53     cut 4: computed twice, identical to the byte (320603 bytes) GÇö fit to air
-2026-09-21 23:55:55     cut 4: end state sha256 99dddc96a1b73bcdGÇª GÇö the word the viewer's card will check
-2026-09-21 23:55:57     aired: C:\claude\games\frontier\episodes\episode-2026-09-22T034139-cut4.json (324.7 KiB, sha256 d80b96b1d4cb6dc4GÇª, 242.1s)
-2026-09-21 23:55:59     pointer: C:\claude\games\frontier\episodes\latest.json GÇö 4 cuts, episode names cut 1 (episode-2026-09-22T034139-cut1.json)
-2026-09-21 23:56:01     next: 4 of 4 cut(s) still to come GÇö episodes/next.json
-2026-09-21 23:56:03     ledger: 119 + 4 entries GÇö episodes/aired.json
-2026-09-21 23:56:05     tomorrow starts where cut 4 ended: episodes/next-snapshot.json
+2026-09-22 00:40:01 not the production hour (04:40Z); nothing to do
+2026-09-22 01:40:01 not the production hour (05:40Z); nothing to do
+2026-09-22 02:40:01 not the production hour (06:40Z); nothing to do
+2026-09-22 03:40:01 not the production hour (07:40Z); nothing to do
+2026-09-22 04:40:01 not the production hour (08:40Z); nothing to do
+2026-09-22 05:40:01 not the production hour (09:40Z); nothing to do
+2026-09-22 06:40:02 not the production hour (10:40Z); nothing to do
+2026-09-22 07:40:01 not the production hour (11:40Z); nothing to do
+2026-09-22 08:40:01 not the production hour (12:40Z); nothing to do
+2026-09-22 09:40:02 not the production hour (13:40Z); nothing to do
+2026-09-22 10:40:02 not the production hour (14:40Z); nothing to do
+2026-09-22 11:40:02 not the production hour (15:40Z); nothing to do
+2026-09-22 12:40:02 not the production hour (16:40Z); nothing to do
+2026-09-22 13:40:02 not the production hour (17:40Z); nothing to do
+2026-09-22 14:40:02 not the production hour (18:40Z); nothing to do
+2026-09-22 15:40:02 not the production hour (19:40Z); nothing to do
+2026-09-22 16:40:02 not the production hour (20:40Z); nothing to do
+2026-09-22 17:40:02 not the production hour (21:40Z); nothing to do
