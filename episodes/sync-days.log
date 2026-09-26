@@ -23,3 +23,7 @@
 2026-09-25T03:20:01Z   WRITE    cairnwright-cut1.json
 2026-09-25T03:20:01Z applied: the drawer holds exactly the 16 composed file(s)
 2026-09-25T03:20:01Z   replaced or moved files kept in C:\claude\games\frontier\agents\days\superseded\sync-20260925T032001Z
+2026-09-26T03:20:02Z sync-days: for the 04:00Z of 2026-09-26; house set 16 file(s) from C:\claude\games\frontier\agents\house-days
+2026-09-26T03:20:02Z overlay days/2026-09-26: no folder; 0 file(s) carried, 0 skipped
+2026-09-26T03:20:02Z drawer C:\claude\games\frontier\agents\days: 16 now; 16 after; 0 to write, 0 to move out
+2026-09-26T03:20:02Z applied: the drawer holds exactly the 16 composed file(s)
