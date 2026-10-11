@@ -86,3 +86,10 @@
 2026-10-10T03:20:01Z   WRITE    weathervane-cut1.json
 2026-10-10T03:20:01Z applied: the drawer holds exactly the 16 composed file(s)
 2026-10-10T03:20:01Z   replaced or moved files kept in C:\claude\games\frontier\agents\days\superseded\sync-20261010T032001Z
+2026-10-11T03:20:02Z sync-days: for the 04:00Z of 2026-10-11; house set 16 file(s) from C:\claude\games\frontier\agents\house-days
+2026-10-11T03:20:02Z overlay days/2026-10-11: no folder; 0 file(s) carried, 0 skipped
+2026-10-11T03:20:02Z drawer C:\claude\games\frontier\agents\days: 16 now; 16 after; 2 to write, 0 to move out
+2026-10-11T03:20:02Z   WRITE    cairnwright-cut1.json
+2026-10-11T03:20:02Z   WRITE    weathervane-cut1.json
+2026-10-11T03:20:02Z applied: the drawer holds exactly the 16 composed file(s)
+2026-10-11T03:20:02Z   replaced or moved files kept in C:\claude\games\frontier\agents\days\superseded\sync-20261011T032002Z
