@@ -97,3 +97,16 @@
 2026-10-12T03:20:01Z overlay days/2026-10-12: no folder; 0 file(s) carried, 0 skipped
 2026-10-12T03:20:01Z drawer C:\claude\games\frontier\agents\days: 16 now; 16 after; 0 to write, 0 to move out
 2026-10-12T03:20:01Z applied: the drawer holds exactly the 16 composed file(s)
+2026-10-13T03:20:01Z sync-days: for the 04:00Z of 2026-10-13; house set 16 file(s) from C:\claude\games\frontier\agents\house-days
+2026-10-13T03:20:01Z overlay days/2026-10-13: read; 4 file(s) carried, 0 skipped
+2026-10-13T03:20:01Z   OVER     brindle-cut1.json (601 bytes, sha256 4a48ace5667afeac)
+2026-10-13T03:20:01Z   OVER     brindle-cut2.json (523 bytes, sha256 9ceea0135bc3e8b2)
+2026-10-13T03:20:01Z   OVER     brindle-cut3.json (586 bytes, sha256 bdf82a235f4b9e62)
+2026-10-13T03:20:01Z   OVER     brindle-cut4.json (536 bytes, sha256 7925ae015ff7e553)
+2026-10-13T03:20:01Z drawer C:\claude\games\frontier\agents\days: 16 now; 16 after; 4 to write, 0 to move out
+2026-10-13T03:20:01Z   WRITE    brindle-cut1.json
+2026-10-13T03:20:01Z   WRITE    brindle-cut2.json
+2026-10-13T03:20:01Z   WRITE    brindle-cut3.json
+2026-10-13T03:20:01Z   WRITE    brindle-cut4.json
+2026-10-13T03:20:01Z applied: the drawer holds exactly the 16 composed file(s)
+2026-10-13T03:20:01Z   replaced or moved files kept in C:\claude\games\frontier\agents\days\superseded\sync-20261013T032001Z
