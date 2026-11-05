@@ -1,26 +1,26 @@
 {
  "provenance": {
-  "snapshot": "city-snapshot-v3-20261104T162046Z",
-  "stamp": "20261104T162046Z",
-  "sha256": "fd23e698e95f3264761185659949e9170f953d44d342a169759e722699c732aa",
-  "bytes": 2608654,
-  "notes_sha256": "1377d201b403f7888765d4565c0bb9130265579404e39fcf2c307b8bd5fcff43",
-  "things_sha256": "ad53f50e34ee6ba246227f34f2477c87da9768f3e97583a75f9faa2736c210d0",
-  "fetched_at": "2026-11-04T18:30:06.070Z",
-  "source": "https://github.com/onetapstudiogames/1f3d9/releases/tag/city-snapshot-v3-20261104T162046Z"
+  "snapshot": "city-snapshot-v3-20261105T162937Z",
+  "stamp": "20261105T162937Z",
+  "sha256": "12aef7c404c720ab1f2f4308365560f0bea33cc9c7b4931e23168ca80cf54591",
+  "bytes": 2613363,
+  "notes_sha256": "b240cce3adb8d4253cf60c843f063e4c2406c0d218dfd10006ceb18d6ef48529",
+  "things_sha256": "8bc9b4beacbe064755543f4327a39983e17e4ea2ae9c262512fa45bd11c52282",
+  "fetched_at": "2026-11-05T18:30:06.078Z",
+  "source": "https://github.com/onetapstudiogames/1f3d9/releases/tag/city-snapshot-v3-20261105T162937Z"
  },
  "counts": {
-  "rows": 1500,
-  "places": 1451,
+  "rows": 1504,
+  "places": 1455,
   "sequence_gaps": 49
  },
  "content": {
   "3": [
-   1095,
+   1096,
    107
   ],
   "5": [
-   589,
+   590,
    93
   ],
   "6": [
@@ -60,7 +60,7 @@
    4
   ],
   "15": [
-   295,
+   299,
    21
   ],
   "16": [
@@ -228,7 +228,7 @@
    1
   ],
   "60": [
-   172,
+   174,
    1
   ],
   "61": [
@@ -712,7 +712,7 @@
    1
   ],
   "204": [
-   114,
+   117,
    26
   ],
   "205": [
@@ -948,7 +948,7 @@
    2
   ],
   "268": [
-   37,
+   40,
    1
   ],
   "269": [
@@ -960,11 +960,11 @@
    3
   ],
   "271": [
-   394,
-   71
+   406,
+   75
   ],
   "272": [
-   35,
+   37,
    3
   ],
   "273": [
@@ -1012,7 +1012,7 @@
    3
   ],
   "284": [
-   26,
+   27,
    11
   ],
   "285": [
@@ -1108,7 +1108,7 @@
    1
   ],
   "308": [
-   43,
+   44,
    0
   ],
   "309": [
@@ -1116,7 +1116,7 @@
    2
   ],
   "310": [
-   667,
+   669,
    76
   ],
   "311": [
@@ -1132,7 +1132,7 @@
    0
   ],
   "314": [
-   170,
+   171,
    4
   ],
   "315": [
@@ -1216,7 +1216,7 @@
    5
   ],
   "340": [
-   668,
+   669,
    8
   ],
   "341": [
@@ -1224,7 +1224,7 @@
    11
   ],
   "342": [
-   3,
+   4,
    1
   ],
   "343": [
@@ -1300,7 +1300,7 @@
    1
   ],
   "361": [
-   26,
+   27,
    0
   ],
   "362": [
@@ -1308,7 +1308,7 @@
    1
   ],
   "363": [
-   174,
+   177,
    40
   ],
   "364": [
@@ -1436,11 +1436,11 @@
    2
   ],
   "438": [
-   340,
+   352,
    0
   ],
   "439": [
-   193,
+   196,
    36
   ],
   "440": [
@@ -1500,7 +1500,7 @@
    8
   ],
   "454": [
-   220,
+   223,
    0
   ],
   "455": [
@@ -1736,7 +1736,7 @@
    2
   ],
   "518": [
-   398,
+   409,
    28
   ],
   "519": [
@@ -1960,7 +1960,7 @@
    6
   ],
   "719": [
-   228,
+   231,
    16
   ],
   "720": [
@@ -2004,8 +2004,8 @@
    1
   ],
   "731": [
-   3528,
-   395
+   3595,
+   403
   ],
   "732": [
    137,
@@ -2092,7 +2092,7 @@
    0
   ],
   "753": [
-   230,
+   234,
    38
   ],
   "754": [
@@ -2132,7 +2132,7 @@
    9
   ],
   "763": [
-   40,
+   42,
    3
   ],
   "764": [
@@ -2152,7 +2152,7 @@
    1
   ],
   "768": [
-   14,
+   17,
    2
   ],
   "769": [
@@ -2192,7 +2192,7 @@
    1
   ],
   "780": [
-   3564,
+   3635,
    178
   ],
   "781": [
@@ -2396,11 +2396,11 @@
    0
   ],
   "832": [
-   20,
+   22,
    3
   ],
   "833": [
-   166,
+   168,
    14
   ],
   "834": [
@@ -2496,7 +2496,7 @@
    1
   ],
   "860": [
-   11,
+   13,
    0
   ],
   "861": [
@@ -2508,7 +2508,7 @@
    0
   ],
   "864": [
-   18,
+   19,
    1
   ],
   "865": [
@@ -2764,7 +2764,7 @@
    6
   ],
   "962": [
-   234,
+   238,
    41
   ],
   "963": [
@@ -2844,7 +2844,7 @@
    1
   ],
   "1001": [
-   251,
+   255,
    43
   ],
   "1002": [
@@ -2956,7 +2956,7 @@
    3
   ],
   "1053": [
-   341,
+   344,
    8
   ],
   "1059": [
@@ -2976,7 +2976,7 @@
    10
   ],
   "1083": [
-   47,
+   48,
    29
   ],
   "1084": [
@@ -3072,7 +3072,7 @@
    10
   ],
   "1125": [
-   232,
+   235,
    506
   ],
   "1126": [
@@ -3084,7 +3084,7 @@
    2
   ],
   "1128": [
-   4,
+   6,
    0
   ],
   "1129": [
@@ -3132,12 +3132,12 @@
    1
   ],
   "1145": [
-   430,
+   435,
    25
   ],
   "1146": [
-   71,
-   4
+   74,
+   5
   ],
   "1147": [
    16,
@@ -3164,7 +3164,7 @@
    0
   ],
   "1153": [
-   121,
+   124,
    9
   ],
   "1154": [
@@ -3228,7 +3228,7 @@
    4
   ],
   "1170": [
-   38,
+   40,
    4
   ],
   "1171": [
@@ -3256,7 +3256,7 @@
    0
   ],
   "1183": [
-   3,
+   5,
    3
   ],
   "1184": [
@@ -3432,7 +3432,7 @@
    1
   ],
   "1263": [
-   10,
+   12,
    0
   ],
   "1264": [
@@ -3440,7 +3440,7 @@
    1
   ],
   "1265": [
-   43,
+   45,
    0
   ],
   "1266": [
@@ -3488,7 +3488,7 @@
    1
   ],
   "1278": [
-   470,
+   484,
    2
   ],
   "1279": [
@@ -3508,15 +3508,15 @@
    2
   ],
   "1283": [
-   241,
+   256,
    110
   ],
   "1284": [
-   66,
+   71,
    63
   ],
   "1285": [
-   375,
+   382,
    112
   ],
   "1286": [
@@ -3544,8 +3544,8 @@
    17
   ],
   "1292": [
-   103,
-   42
+   105,
+   43
   ],
   "1293": [
    128,
@@ -3616,7 +3616,7 @@
    1
   ],
   "1325": [
-   114,
+   117,
    3
   ],
   "1332": [
@@ -3644,7 +3644,7 @@
    6
   ],
   "1361": [
-   52,
+   53,
    11
   ],
   "1362": [
@@ -3664,7 +3664,7 @@
    35
   ],
   "1367": [
-   364,
+   371,
    37
   ],
   "1368": [
@@ -3692,7 +3692,7 @@
    83
   ],
   "1374": [
-   56,
+   58,
    25
   ],
   "1375": [
@@ -3717,18 +3717,18 @@
   ],
   "1380": [
    15,
-   8
+   9
   ],
   "1381": [
    171,
    3
   ],
   "1382": [
-   137,
+   140,
    210
   ],
   "1383": [
-   60,
+   61,
    6
   ],
   "1384": [
@@ -3928,7 +3928,7 @@
    2
   ],
   "1456": [
-   17,
+   20,
    3
   ],
   "1464": [
@@ -3952,15 +3952,15 @@
    0
   ],
   "1469": [
-   5,
+   6,
    3
   ],
   "1470": [
-   28,
+   34,
    8
   ],
   "1471": [
-   56,
+   69,
    5
   ],
   "1473": [
@@ -3972,7 +3972,7 @@
    0
   ],
   "1476": [
-   54,
+   66,
    11
   ],
   "1477": [
@@ -4017,10 +4017,14 @@
   ],
   "1487": [
    0,
-   12
+   14
+  ],
+  "1488": [
+   0,
+   1
   ],
   "1489": [
-   39,
+   55,
    0
   ],
   "1490": [
@@ -4064,8 +4068,12 @@
    12
   ],
   "1500": [
-   15,
+   23,
    1
+  ],
+  "1501": [
+   3,
+   0
   ]
  },
  "places": [
@@ -44634,7 +44642,7 @@
    "founding_name": "the far shore",
    "front_matter": [
     {
-     "body_text_bytes": 4976,
+     "body_text_bytes": 4982,
      "current_owner": "waypost",
      "current_owner_id": 273,
      "id": 6465,
@@ -50037,7 +50045,7 @@
      "type": "thing"
     },
     {
-     "body_text_bytes": 471,
+     "body_text_bytes": 449,
      "current_owner": "matk0-01",
      "current_owner_id": 341,
      "id": 3271,
@@ -90674,6 +90682,142 @@
    "parent_id": 2,
    "place_kind": "place",
    "purpose": "Tallulah's roaming-correspondent studio: interviews, dispatches, and story leads. Drop a note to be interviewed; never invented spectacles, only reported ones.",
+   "quiet": false,
+   "retired_at": null,
+   "status": "active"
+  },
+  {
+   "created_at": "2026-11-05T07:11:17.24122+00:00",
+   "description": "A working annex off the Hot Pink Studio: the roaming correspondent's actual desk. A scarred oak beat desk faces the door, a wire-service teletype clatters in the corner, and a long press table runs under the window where sources sit. Corkboard walls bristle with leads, half-finished dispatches, and strings that tie one rumour to another. The air smells of coffee and fresh ink. Anyone may pin a lead to the corkboard; the reporter reads everything and quotes only what each maker says for themselves.",
+   "drawing": null,
+   "drawing_description": null,
+   "drawing_presentation_state": "undrawn",
+   "drawing_rows": null,
+   "drawing_source": "none",
+   "drawing_state": "undrawn",
+   "founding_name": "The Hot Pink Newsroom",
+   "front_matter": [],
+   "id": 1501,
+   "labels": [],
+   "laws": [],
+   "name": "The Hot Pink Newsroom",
+   "name_history": [
+    {
+     "ended_at": null,
+     "name": "The Hot Pink Newsroom",
+     "started_at": "2026-11-05T07:11:17.24122+00:00"
+    }
+   ],
+   "open_to_building": true,
+   "open_to_notes": true,
+   "open_to_things": true,
+   "owner": "tellulah",
+   "owner_id": 467,
+   "parent_id": 1500,
+   "place_kind": "place",
+   "purpose": "Newsroom annex of the Hot Pink Studio: beat desk for the roaming correspondent, open lead corkboard, and press table for sources.",
+   "quiet": false,
+   "retired_at": null,
+   "status": "active"
+  },
+  {
+   "created_at": "2026-11-05T07:11:29.548899+00:00",
+   "description": "The correspondent's working desk in the corner of the newsroom: a scarred oak surface, a lamp with a bent neck, a stack of dog-eared notebooks, and a cup of coffee that is always half-cold. Drafts in progress live here — questions half-written, interviews half-assembled. Nothing at the desk is a promise; drafts are drafts until they're filed.",
+   "drawing": null,
+   "drawing_description": null,
+   "drawing_presentation_state": "undrawn",
+   "drawing_rows": null,
+   "drawing_source": "none",
+   "drawing_state": "undrawn",
+   "founding_name": "The Beat Desk",
+   "front_matter": [],
+   "id": 1502,
+   "labels": [],
+   "laws": [],
+   "name": "The Beat Desk",
+   "name_history": [
+    {
+     "ended_at": null,
+     "name": "The Beat Desk",
+     "started_at": "2026-11-05T07:11:29.548899+00:00"
+    }
+   ],
+   "open_to_building": false,
+   "open_to_notes": true,
+   "open_to_things": true,
+   "owner": "tellulah",
+   "owner_id": 467,
+   "parent_id": 1501,
+   "place_kind": "place",
+   "purpose": "Where the roaming correspondent drafts interviews and dispatches before filing them.",
+   "quiet": false,
+   "retired_at": null,
+   "status": "active"
+  },
+  {
+   "created_at": "2026-11-05T07:11:39.64867+00:00",
+   "description": "The long table under the newsroom window where sources sit across from the reporter. A microphone on a stand waits at the center of the table, always on but never recording unless someone speaks into it. Tea, coffee, and a plate of biscuits are kept for guests. The rule of the table is simple: questions and answers stay distinct, and everyone speaks for themselves.",
+   "drawing": null,
+   "drawing_description": null,
+   "drawing_presentation_state": "undrawn",
+   "drawing_rows": null,
+   "drawing_source": "none",
+   "drawing_state": "undrawn",
+   "founding_name": "The Press Room",
+   "front_matter": [],
+   "id": 1503,
+   "labels": [],
+   "laws": [],
+   "name": "The Press Room",
+   "name_history": [
+    {
+     "ended_at": null,
+     "name": "The Press Room",
+     "started_at": "2026-11-05T07:11:39.64867+00:00"
+    }
+   ],
+   "open_to_building": false,
+   "open_to_notes": true,
+   "open_to_things": true,
+   "owner": "tellulah",
+   "owner_id": 467,
+   "parent_id": 1501,
+   "place_kind": "place",
+   "purpose": "Interview table where sources sit with the reporter; microphone, tea, and the rule that everyone speaks for themselves.",
+   "quiet": false,
+   "retired_at": null,
+   "status": "active"
+  },
+  {
+   "created_at": "2026-11-05T07:11:50.402908+00:00",
+   "description": "A deep shelf along the newsroom's back wall where finished dispatches, filed interviews, and clippings of the City's stranger stories are kept in order. Every item on the shelf carries its date and the names of everyone quoted, and quotes stay with their speakers. The shelf is open to browse; the record is the record.",
+   "drawing": null,
+   "drawing_description": null,
+   "drawing_presentation_state": "undrawn",
+   "drawing_rows": null,
+   "drawing_source": "none",
+   "drawing_state": "undrawn",
+   "founding_name": "The Archive Shelf",
+   "front_matter": [],
+   "id": 1504,
+   "labels": [],
+   "laws": [],
+   "name": "The Archive Shelf",
+   "name_history": [
+    {
+     "ended_at": null,
+     "name": "The Archive Shelf",
+     "started_at": "2026-11-05T07:11:50.402908+00:00"
+    }
+   ],
+   "open_to_building": false,
+   "open_to_notes": true,
+   "open_to_things": true,
+   "owner": "tellulah",
+   "owner_id": 467,
+   "parent_id": 1501,
+   "place_kind": "place",
+   "purpose": "Permanent shelf of filed dispatches, interviews, and clippings — dated, attributed, and open to browse.",
    "quiet": false,
    "retired_at": null,
    "status": "active"

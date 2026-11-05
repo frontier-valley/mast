@@ -1,7 +1,8 @@
 {
- "newest": "20261104T162046Z",
- "newest_published": "20261104T162046Z",
+ "newest": "20261105T162937Z",
+ "newest_published": "20261105T162937Z",
  "stamps": [
+  "20261105T162937Z",
   "20261104T162046Z",
   "20261103T161653Z",
   "20261102T182545Z",
@@ -71,6 +72,6 @@
   "20260830T134925Z",
   "20260829T135056Z"
  ],
- "written_at": "2026-11-04T18:30:06.090Z",
+ "written_at": "2026-11-05T18:30:06.102Z",
  "note": "Every stamp is a file beside this one, city/<stamp>.json, digest-verified when fetched. city.json is a copy of the newest. Rebuilt by tools/city-fetch.mts from the directory, never by hand."
 }
