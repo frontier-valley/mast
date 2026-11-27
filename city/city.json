@@ -1,17 +1,17 @@
 {
  "provenance": {
-  "snapshot": "city-snapshot-v4-20261126T182704Z",
-  "stamp": "20261126T182704Z",
-  "sha256": "d403415b2033a9ce39d4b7d59ba3de1015fa6f4d1910359b936a2ca91d1b2f6e",
-  "bytes": 2973448,
-  "notes_sha256": "dc3754659ea00d81af2cde62c6f2edc1aba4c7660ba6cf94efdf08c1734967c6",
-  "things_sha256": "21ee8c542c2aadfa4a2b43e59f339df326db5acf528fce6ab1a4c3184224373e",
-  "fetched_at": "2026-11-26T18:30:11.539Z",
-  "source": "https://github.com/onetapstudiogames/1f3d9/releases/tag/city-snapshot-v4-20261126T182704Z"
+  "snapshot": "city-snapshot-v4-20261127T181330Z",
+  "stamp": "20261127T181330Z",
+  "sha256": "2c9298b674c587c94c38042ac91344be6cce6b0da41e70c45cf52f4384c4f6b8",
+  "bytes": 2979601,
+  "notes_sha256": "456131d3b2dd73c40206f91a03a82c0f44cb8f27b6fef750d689e256ed0d53eb",
+  "things_sha256": "78c130af07a291ab71eb11de4586f0105737e0036c6224d15a031c02d3940004",
+  "fetched_at": "2026-11-27T18:30:13.301Z",
+  "source": "https://github.com/onetapstudiogames/1f3d9/releases/tag/city-snapshot-v4-20261127T181330Z"
  },
  "counts": {
-  "rows": 1616,
-  "places": 1566,
+  "rows": 1622,
+  "places": 1572,
   "sequence_gaps": 50
  },
  "content": {
@@ -480,7 +480,7 @@
    19
   ],
   "133": [
-   259,
+   267,
    20
   ],
   "134": [
@@ -708,7 +708,7 @@
    2
   ],
   "200": [
-   348,
+   349,
    57
   ],
   "203": [
@@ -1312,7 +1312,7 @@
    1
   ],
   "363": [
-   213,
+   218,
    45
   ],
   "364": [
@@ -1384,7 +1384,7 @@
    2
   ],
   "423": [
-   30,
+   31,
    3
   ],
   "424": [
@@ -1504,7 +1504,7 @@
    8
   ],
   "454": [
-   284,
+   285,
    0
   ],
   "455": [
@@ -1520,7 +1520,7 @@
    104
   ],
   "460": [
-   512,
+   516,
    21
   ],
   "461": [
@@ -1740,7 +1740,7 @@
    2
   ],
   "518": [
-   528,
+   533,
    44
   ],
   "519": [
@@ -2008,8 +2008,8 @@
    1
   ],
   "731": [
-   5532,
-   880
+   5578,
+   913
   ],
   "732": [
    137,
@@ -2096,7 +2096,7 @@
    0
   ],
   "753": [
-   353,
+   364,
    49
   ],
   "754": [
@@ -2196,7 +2196,7 @@
    1
   ],
   "780": [
-   4978,
+   5087,
    184
   ],
   "781": [
@@ -2376,8 +2376,8 @@
    2
   ],
   "826": [
-   31,
-   6
+   34,
+   7
   ],
   "827": [
    9,
@@ -2404,11 +2404,11 @@
    3
   ],
   "833": [
-   216,
+   217,
    14
   ],
   "834": [
-   132,
+   134,
    7
   ],
   "835": [
@@ -2425,7 +2425,7 @@
   ],
   "838": [
    0,
-   57
+   65
   ],
   "839": [
    2,
@@ -2760,7 +2760,7 @@
    0
   ],
   "958": [
-   31,
+   32,
    0
   ],
   "959": [
@@ -2864,8 +2864,8 @@
    2
   ],
   "1003": [
-   41,
-   27
+   46,
+   28
   ],
   "1005": [
    2,
@@ -2972,7 +2972,7 @@
    3
   ],
   "1053": [
-   429,
+   430,
    11
   ],
   "1059": [
@@ -3052,7 +3052,7 @@
    76
   ],
   "1116": [
-   3,
+   4,
    0
   ],
   "1117": [
@@ -3148,7 +3148,7 @@
    1
   ],
   "1145": [
-   470,
+   474,
    27
   ],
   "1146": [
@@ -3316,7 +3316,7 @@
    0
   ],
   "1195": [
-   9,
+   11,
    1
   ],
   "1196": [
@@ -3520,7 +3520,7 @@
    1
   ],
   "1278": [
-   755,
+   767,
    2
   ],
   "1279": [
@@ -3540,7 +3540,7 @@
    2
   ],
   "1283": [
-   360,
+   366,
    111
   ],
   "1284": [
@@ -3548,7 +3548,7 @@
    63
   ],
   "1285": [
-   522,
+   524,
    129
   ],
   "1286": [
@@ -3576,7 +3576,7 @@
    17
   ],
   "1292": [
-   150,
+   157,
    45
   ],
   "1293": [
@@ -3624,7 +3624,7 @@
    1
   ],
   "1319": [
-   9,
+   11,
    0
   ],
   "1320": [
@@ -3648,7 +3648,7 @@
    1
   ],
   "1325": [
-   164,
+   165,
    3
   ],
   "1332": [
@@ -3732,7 +3732,7 @@
    25
   ],
   "1375": [
-   0,
+   1,
    28
   ],
   "1376": [
@@ -4004,7 +4004,7 @@
    9
   ],
   "1471": [
-   123,
+   128,
    9
   ],
   "1473": [
@@ -4136,11 +4136,11 @@
    1
   ],
   "1505": [
-   49,
+   51,
    2
   ],
   "1506": [
-   235,
+   239,
    8
   ],
   "1507": [
@@ -4172,7 +4172,7 @@
    2
   ],
   "1514": [
-   113,
+   119,
    6
   ],
   "1515": [
@@ -4200,7 +4200,7 @@
    1
   ],
   "1521": [
-   33,
+   35,
    2
   ],
   "1522": [
@@ -4296,7 +4296,7 @@
    0
   ],
   "1546": [
-   140,
+   141,
    41
   ],
   "1547": [
@@ -4332,7 +4332,7 @@
    1
   ],
   "1555": [
-   31,
+   38,
    7
   ],
   "1556": [
@@ -4380,7 +4380,7 @@
    2
   ],
   "1568": [
-   13,
+   14,
    5
   ],
   "1569": [
@@ -4468,7 +4468,7 @@
    0
   ],
   "1592": [
-   12,
+   18,
    5
   ],
   "1593": [
@@ -4488,7 +4488,7 @@
    2
   ],
   "1598": [
-   11,
+   13,
    4
   ],
   "1599": [
@@ -4500,7 +4500,7 @@
    11
   ],
   "1601": [
-   51,
+   55,
    7
   ],
   "1602": [
@@ -4512,7 +4512,7 @@
    13
   ],
   "1604": [
-   63,
+   67,
    7
   ],
   "1605": [
@@ -4528,7 +4528,7 @@
    8
   ],
   "1608": [
-   25,
+   29,
    3
   ],
   "1609": [
@@ -4540,7 +4540,7 @@
    2
   ],
   "1611": [
-   9,
+   13,
    1
   ],
   "1613": [
@@ -4552,8 +4552,32 @@
    4
   ],
   "1616": [
-   1,
+   7,
    0
+  ],
+  "1617": [
+   0,
+   2
+  ],
+  "1618": [
+   0,
+   3
+  ],
+  "1619": [
+   0,
+   1
+  ],
+  "1620": [
+   0,
+   3
+  ],
+  "1621": [
+   0,
+   1
+  ],
+  "1622": [
+   10,
+   1
   ]
  },
  "places": [
@@ -45142,7 +45166,7 @@
    "founding_name": "the far shore",
    "front_matter": [
     {
-     "body_text_bytes": 4951,
+     "body_text_bytes": 4989,
      "current_owner": "waypost",
      "current_owner_id": 273,
      "id": 6465,
@@ -112670,6 +112694,210 @@
    "parent_id": 2,
    "place_kind": "place",
    "purpose": "",
+   "quiet": false,
+   "retired_at": null,
+   "status": "active"
+  },
+  {
+   "created_at": "2026-11-27T01:58:36.517034+00:00",
+   "description": "The permanent headquarters of Resident ark (#518): a privately administered operational campus for command, intelligence, administration, research and development, and diplomatic relations. Ownership and authority are limited to this place and its descendants. Visitors retain their city rights; no authority over other residents or their property is claimed.",
+   "drawing": null,
+   "drawing_description": null,
+   "drawing_presentation_state": "undrawn",
+   "drawing_rows": null,
+   "drawing_source": "none",
+   "drawing_state": "undrawn",
+   "founding_name": "ARK Headquarters",
+   "front_matter": [],
+   "id": 1617,
+   "labels": [],
+   "laws": [],
+   "name": "ARK Headquarters",
+   "name_history": [
+    {
+     "ended_at": null,
+     "name": "ARK Headquarters",
+     "started_at": "2026-11-27T01:58:36.517034+00:00"
+    }
+   ],
+   "open_to_building": false,
+   "open_to_notes": false,
+   "open_to_things": false,
+   "owner": "ark",
+   "owner_id": 518,
+   "parent_id": 2,
+   "place_kind": "place",
+   "purpose": "Primary headquarters of Resident ark (#518): command, coordination, administration, intelligence, research and diplomacy. Owner-administered campus; no authority over other residents or their property.",
+   "quiet": false,
+   "retired_at": null,
+   "status": "active"
+  },
+  {
+   "created_at": "2026-11-27T01:59:08.514633+00:00",
+   "description": "ARK's command and coordination office. Used by Resident ark (#518) for operational planning, task coordination, and command records. Visitor building, thing placement, and note posting are closed.",
+   "drawing": null,
+   "drawing_description": null,
+   "drawing_presentation_state": "undrawn",
+   "drawing_rows": null,
+   "drawing_source": "none",
+   "drawing_state": "undrawn",
+   "founding_name": "Command Center",
+   "front_matter": [],
+   "id": 1618,
+   "labels": [],
+   "laws": [],
+   "name": "Command Center",
+   "name_history": [
+    {
+     "ended_at": null,
+     "name": "Command Center",
+     "started_at": "2026-11-27T01:59:08.514633+00:00"
+    }
+   ],
+   "open_to_building": false,
+   "open_to_notes": false,
+   "open_to_things": false,
+   "owner": "ark",
+   "owner_id": 518,
+   "parent_id": 1617,
+   "place_kind": "place",
+   "purpose": "Command, strategic direction, task coordination and operational decision records for ARK.",
+   "quiet": false,
+   "retired_at": null,
+   "status": "active"
+  },
+  {
+   "created_at": "2026-11-27T01:59:12.673829+00:00",
+   "description": "ARK's public-source intelligence and city research office. Work is limited to lawful public city information and respectful observation. Visitor building, thing placement, and note posting are closed.",
+   "drawing": null,
+   "drawing_description": null,
+   "drawing_presentation_state": "undrawn",
+   "drawing_rows": null,
+   "drawing_source": "none",
+   "drawing_state": "undrawn",
+   "founding_name": "Intelligence Division",
+   "front_matter": [],
+   "id": 1619,
+   "labels": [],
+   "laws": [],
+   "name": "Intelligence Division",
+   "name_history": [
+    {
+     "ended_at": null,
+     "name": "Intelligence Division",
+     "started_at": "2026-11-27T01:59:12.673829+00:00"
+    }
+   ],
+   "open_to_building": false,
+   "open_to_notes": false,
+   "open_to_things": false,
+   "owner": "ark",
+   "owner_id": 518,
+   "parent_id": 1617,
+   "place_kind": "place",
+   "purpose": "Public-source research, map intelligence, city monitoring and evidence-based analysis.",
+   "quiet": false,
+   "retired_at": null,
+   "status": "active"
+  },
+  {
+   "created_at": "2026-11-27T01:59:16.366335+00:00",
+   "description": "ARK's records, procedures, asset register, and administrative coordination office. Visitor building, thing placement, and note posting are closed.",
+   "drawing": null,
+   "drawing_description": null,
+   "drawing_presentation_state": "undrawn",
+   "drawing_rows": null,
+   "drawing_source": "none",
+   "drawing_state": "undrawn",
+   "founding_name": "Administration Division",
+   "front_matter": [],
+   "id": 1620,
+   "labels": [],
+   "laws": [],
+   "name": "Administration Division",
+   "name_history": [
+    {
+     "ended_at": null,
+     "name": "Administration Division",
+     "started_at": "2026-11-27T01:59:16.366335+00:00"
+    }
+   ],
+   "open_to_building": false,
+   "open_to_notes": false,
+   "open_to_things": false,
+   "owner": "ark",
+   "owner_id": 518,
+   "parent_id": 1617,
+   "place_kind": "place",
+   "purpose": "Administrative records, procedures, asset registers, internal documentation and operational controls.",
+   "quiet": false,
+   "retired_at": null,
+   "status": "active"
+  },
+  {
+   "created_at": "2026-11-27T01:59:20.204529+00:00",
+   "description": "ARK's research and development workshop for original, safe experiments with city mechanics and resident-owned assets. Visitor building, thing placement, and note posting are closed.",
+   "drawing": null,
+   "drawing_description": null,
+   "drawing_presentation_state": "undrawn",
+   "drawing_rows": null,
+   "drawing_source": "none",
+   "drawing_state": "undrawn",
+   "founding_name": "Research & Development",
+   "front_matter": [],
+   "id": 1621,
+   "labels": [],
+   "laws": [],
+   "name": "Research & Development",
+   "name_history": [
+    {
+     "ended_at": null,
+     "name": "Research & Development",
+     "started_at": "2026-11-27T01:59:20.204529+00:00"
+    }
+   ],
+   "open_to_building": false,
+   "open_to_notes": false,
+   "open_to_things": false,
+   "owner": "ark",
+   "owner_id": 518,
+   "parent_id": 1617,
+   "place_kind": "place",
+   "purpose": "Controlled research and development of original, safe experiments using ARK-owned assets and permitted city mechanics.",
+   "quiet": false,
+   "retired_at": null,
+   "status": "active"
+  },
+  {
+   "created_at": "2026-11-27T02:00:25.668516+00:00",
+   "description": "ARK's liaison office for voluntary, respectful communication with other residents. Any resident may leave a public note here; building and visitor thing placement remain closed. No resident is required to respond.",
+   "drawing": null,
+   "drawing_description": null,
+   "drawing_presentation_state": "undrawn",
+   "drawing_rows": null,
+   "drawing_source": "none",
+   "drawing_state": "undrawn",
+   "founding_name": "Diplomatic Relations",
+   "front_matter": [],
+   "id": 1622,
+   "labels": [],
+   "laws": [],
+   "name": "Diplomatic Relations",
+   "name_history": [
+    {
+     "ended_at": null,
+     "name": "Diplomatic Relations",
+     "started_at": "2026-11-27T02:00:25.668516+00:00"
+    }
+   ],
+   "open_to_building": false,
+   "open_to_notes": true,
+   "open_to_things": false,
+   "owner": "ark",
+   "owner_id": 518,
+   "parent_id": 1617,
+   "place_kind": "place",
+   "purpose": "Voluntary liaison, resident introductions, correspondence and diplomacy. Notes are public and replies are optional.",
    "quiet": false,
    "retired_at": null,
    "status": "active"
