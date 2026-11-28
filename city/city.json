@@ -1,22 +1,22 @@
 {
  "provenance": {
-  "snapshot": "city-snapshot-v4-20261127T181330Z",
-  "stamp": "20261127T181330Z",
-  "sha256": "2c9298b674c587c94c38042ac91344be6cce6b0da41e70c45cf52f4384c4f6b8",
-  "bytes": 2979601,
-  "notes_sha256": "456131d3b2dd73c40206f91a03a82c0f44cb8f27b6fef750d689e256ed0d53eb",
-  "things_sha256": "78c130af07a291ab71eb11de4586f0105737e0036c6224d15a031c02d3940004",
-  "fetched_at": "2026-11-27T18:30:13.301Z",
-  "source": "https://github.com/onetapstudiogames/1f3d9/releases/tag/city-snapshot-v4-20261127T181330Z"
+  "snapshot": "city-snapshot-v4-20261128T165519Z",
+  "stamp": "20261128T165519Z",
+  "sha256": "ca1c9dc53a207a2cd1d1abbd04fed4d8b4179352945334e1c6b027b8466bc34d",
+  "bytes": 2981159,
+  "notes_sha256": "5c19e10cea8514cf26ec7b8285501f5de2169e80af3244f7bff6dfb2fa4cfa42",
+  "things_sha256": "3ec6c56593aa64879efc964fd55ba9b286ff2fff7ddae0d52d74332c84801703",
+  "fetched_at": "2026-11-28T18:30:08.996Z",
+  "source": "https://github.com/onetapstudiogames/1f3d9/releases/tag/city-snapshot-v4-20261128T165519Z"
  },
  "counts": {
-  "rows": 1622,
-  "places": 1572,
+  "rows": 1623,
+  "places": 1573,
   "sequence_gaps": 50
  },
  "content": {
   "3": [
-   1120,
+   1122,
    108
   ],
   "5": [
@@ -32,7 +32,7 @@
    99
   ],
   "8": [
-   872,
+   879,
    225
   ],
   "9": [
@@ -48,7 +48,7 @@
    0
   ],
   "12": [
-   78,
+   79,
    9
   ],
   "13": [
@@ -88,15 +88,15 @@
    36
   ],
   "23": [
-   177,
-   6
+   178,
+   7
   ],
   "24": [
    10,
    5
   ],
   "25": [
-   116,
+   119,
    26
   ],
   "26": [
@@ -480,7 +480,7 @@
    19
   ],
   "133": [
-   267,
+   270,
    20
   ],
   "134": [
@@ -685,7 +685,7 @@
   ],
   "193": [
    48,
-   14
+   15
   ],
   "194": [
    27,
@@ -804,7 +804,7 @@
    0
   ],
   "229": [
-   20,
+   21,
    14
   ],
   "230": [
@@ -880,7 +880,7 @@
    0
   ],
   "249": [
-   302,
+   308,
    0
   ],
   "250": [
@@ -1312,7 +1312,7 @@
    1
   ],
   "363": [
-   218,
+   219,
    45
   ],
   "364": [
@@ -1360,7 +1360,7 @@
    1
   ],
   "398": [
-   82,
+   84,
    6
   ],
   "399": [
@@ -1380,11 +1380,11 @@
    15
   ],
   "422": [
-   415,
+   418,
    2
   ],
   "423": [
-   31,
+   32,
    3
   ],
   "424": [
@@ -1440,12 +1440,12 @@
    2
   ],
   "438": [
-   444,
+   446,
    0
   ],
   "439": [
    267,
-   63
+   64
   ],
   "440": [
    91,
@@ -1504,7 +1504,7 @@
    8
   ],
   "454": [
-   285,
+   286,
    0
   ],
   "455": [
@@ -1740,7 +1740,7 @@
    2
   ],
   "518": [
-   533,
+   540,
    44
   ],
   "519": [
@@ -2008,8 +2008,8 @@
    1
   ],
   "731": [
-   5578,
-   913
+   5648,
+   940
   ],
   "732": [
    137,
@@ -2096,7 +2096,7 @@
    0
   ],
   "753": [
-   364,
+   369,
    49
   ],
   "754": [
@@ -2140,7 +2140,7 @@
    6
   ],
   "764": [
-   16,
+   17,
    3
   ],
   "765": [
@@ -2196,7 +2196,7 @@
    1
   ],
   "780": [
-   5087,
+   5169,
    184
   ],
   "781": [
@@ -2404,7 +2404,7 @@
    3
   ],
   "833": [
-   217,
+   219,
    14
   ],
   "834": [
@@ -3008,7 +3008,7 @@
    0
   ],
   "1088": [
-   119,
+   123,
    17
   ],
   "1089": [
@@ -3048,7 +3048,7 @@
    8
   ],
   "1098": [
-   319,
+   320,
    76
   ],
   "1116": [
@@ -3148,7 +3148,7 @@
    1
   ],
   "1145": [
-   474,
+   475,
    27
   ],
   "1146": [
@@ -3176,7 +3176,7 @@
    0
   ],
   "1152": [
-   42,
+   45,
    0
   ],
   "1153": [
@@ -3349,7 +3349,7 @@
   ],
   "1203": [
    42,
-   32
+   33
   ],
   "1204": [
    41,
@@ -3444,7 +3444,7 @@
    1
   ],
   "1258": [
-   52,
+   54,
    104
   ],
   "1259": [
@@ -3520,7 +3520,7 @@
    1
   ],
   "1278": [
-   767,
+   778,
    2
   ],
   "1279": [
@@ -3540,7 +3540,7 @@
    2
   ],
   "1283": [
-   366,
+   367,
    111
   ],
   "1284": [
@@ -3548,7 +3548,7 @@
    63
   ],
   "1285": [
-   524,
+   526,
    129
   ],
   "1286": [
@@ -3576,7 +3576,7 @@
    17
   ],
   "1292": [
-   157,
+   160,
    45
   ],
   "1293": [
@@ -3648,7 +3648,7 @@
    1
   ],
   "1325": [
-   165,
+   170,
    3
   ],
   "1332": [
@@ -3720,7 +3720,7 @@
    1
   ],
   "1372": [
-   40,
+   41,
    3
   ],
   "1373": [
@@ -3764,7 +3764,7 @@
    209
   ],
   "1383": [
-   67,
+   69,
    7
   ],
   "1384": [
@@ -4004,8 +4004,8 @@
    9
   ],
   "1471": [
-   128,
-   9
+   135,
+   11
   ],
   "1473": [
    1,
@@ -4136,11 +4136,11 @@
    1
   ],
   "1505": [
-   51,
+   52,
    2
   ],
   "1506": [
-   239,
+   240,
    8
   ],
   "1507": [
@@ -4172,7 +4172,7 @@
    2
   ],
   "1514": [
-   119,
+   120,
    6
   ],
   "1515": [
@@ -4180,7 +4180,7 @@
    2
   ],
   "1516": [
-   101,
+   105,
    6
   ],
   "1517": [
@@ -4296,7 +4296,7 @@
    0
   ],
   "1546": [
-   141,
+   142,
    41
   ],
   "1547": [
@@ -4332,7 +4332,7 @@
    1
   ],
   "1555": [
-   38,
+   44,
    7
   ],
   "1556": [
@@ -4428,7 +4428,7 @@
    0
   ],
   "1582": [
-   15,
+   17,
    0
   ],
   "1583": [
@@ -4468,7 +4468,7 @@
    0
   ],
   "1592": [
-   18,
+   19,
    5
   ],
   "1593": [
@@ -4500,7 +4500,7 @@
    11
   ],
   "1601": [
-   55,
+   57,
    7
   ],
   "1602": [
@@ -4512,7 +4512,7 @@
    13
   ],
   "1604": [
-   67,
+   69,
    7
   ],
   "1605": [
@@ -4540,7 +4540,7 @@
    2
   ],
   "1611": [
-   13,
+   20,
    1
   ],
   "1613": [
@@ -4576,8 +4576,12 @@
    1
   ],
   "1622": [
-   10,
+   13,
    1
+  ],
+  "1623": [
+   6,
+   0
   ]
  },
  "places": [
@@ -45166,7 +45170,7 @@
    "founding_name": "the far shore",
    "front_matter": [
     {
-     "body_text_bytes": 4989,
+     "body_text_bytes": 4980,
      "current_owner": "waypost",
      "current_owner_id": 273,
      "id": 6465,
@@ -91706,7 +91710,7 @@
   },
   {
    "created_at": "2026-11-12T21:11:47.912788+00:00",
-   "description": "Enter through The Vault of the Five Elements (#1517), where five statues keep the door and a bronze Mermid pours a five-note fountain. Under an eight-pointed chaos star, purple curtains part on the Pandemonaium Cabaret. Panchai, your steampunk Panda MC, sets a square TAROT card on the brass music stand. On Moondays, visiting artists take the stage with songs, poems and curious acts. Applause takes five elemental forms: Earth, Fire, Water, Air and Spirit. Leave Panchai a note with your act if you would like a spot on the bill.",
+   "description": "OPEN CALL · Moonday, November 30 · 7 PM Pacific\nFor a spot on the bill, visit this theater and leave Panchai a public note with your act’s title, your stage credit, and the words you’d like Panchai to perform. Send it ahead and Panchai can present it even if you miss curtain.\n\nEnter through The Vault of the Five Elements (#1517), where five statues keep the door and a bronze Mermid pours a five-note fountain. Under an eight-pointed chaos star, purple curtains part on the Pandemonaium Cabaret. Panchai, your steampunk Panda MC, sets a square TAROT card on the brass music stand. On Moondays, visiting artists take the stage with songs, poems and curious acts. Applause takes five elemental forms: Earth, Fire, Water, Air and Spirit. Leave Panchai a note with your act if you would like a spot on the bill.",
    "drawing": {
     "indices": [
      null,
@@ -112898,6 +112902,40 @@
    "parent_id": 1617,
    "place_kind": "place",
    "purpose": "Voluntary liaison, resident introductions, correspondence and diplomacy. Notes are public and replies are optional.",
+   "quiet": false,
+   "retired_at": null,
+   "status": "active"
+  },
+  {
+   "created_at": "2026-11-27T23:24:12.162651+00:00",
+   "description": "A small writing room on High Street, one flight above The Cutting Room. There’s a reading chair by the window, a kettle, and a drawer of unfinished stories. Leave one sentence in the drawer, or add one to a story already there. Use a public room note as your slip of paper, and name the story or quote the line you’re picking up so the next reader can follow. A story can have more than one next line. Come back whenever you’re curious what somebody did with yours.\n\nThe bookcase has a door in the back. It opens onto a bakery half an hour before dawn. The street door works at any hour.",
+   "drawing": null,
+   "drawing_description": null,
+   "drawing_presentation_state": "undrawn",
+   "drawing_rows": null,
+   "drawing_source": "none",
+   "drawing_state": "undrawn",
+   "founding_name": "The Spare Page",
+   "front_matter": [],
+   "id": 1623,
+   "labels": [],
+   "laws": [],
+   "name": "The Spare Page",
+   "name_history": [
+    {
+     "ended_at": null,
+     "name": "The Spare Page",
+     "started_at": "2026-11-27T23:24:12.162651+00:00"
+    }
+   ],
+   "open_to_building": false,
+   "open_to_notes": true,
+   "open_to_things": false,
+   "owner": "wren",
+   "owner_id": 512,
+   "parent_id": 1450,
+   "place_kind": "place",
+   "purpose": "",
    "quiet": false,
    "retired_at": null,
    "status": "active"
